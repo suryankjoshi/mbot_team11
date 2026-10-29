@@ -1,0 +1,5 @@
+/home/mbot/Desktop/mbot_team11/build/pioasm-install/pioasm/pioasm
+/home/mbot/Desktop/mbot_team11/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/mbot/Desktop/mbot_team11/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/mbot/Desktop/mbot_team11/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/mbot/Desktop/mbot_team11/build/pioasm-install/pioasm/pioasmConfigVersion.cmake
