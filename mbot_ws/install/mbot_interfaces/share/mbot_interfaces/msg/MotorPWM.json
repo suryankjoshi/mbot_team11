@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "mbot_interfaces/msg/MotorPWM",
+      "fields": [
+        {
+          "name": "pwm",
+          "type": {
+            "type_id": 58,
+            "capacity": 3,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "mbot_interfaces/msg/MotorPWM",
+      "hash_string": "RIHS01_cb964601fb9a4b4ecb1dfee0948c918516094eca5d7a3d3e826267b01f53e0a3"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from mbot_interfaces/msg/Encoders.msg
+// generated code does not contain a copyright notice
+
+#include "builtin_interfaces/msg/Time.idl"
+
+module mbot_interfaces {
+  module msg {
+    typedef int64 int64__3[3];
+    typedef int32 int32__3[3];
+    struct Encoders {
+      @verbatim (language="comment", text=
+        "ROS time when encoder data was read")
+      builtin_interfaces::msg::Time stamp;
+
+      @verbatim (language="comment", text=
+        "no units")
+      int64__3 ticks;
+
+      @verbatim (language="comment", text=
+        "no units")
+      int32__3 delta_ticks;
+
+      @unit (value="usec")
+      int32 delta_time;
+    };
+  };
+};

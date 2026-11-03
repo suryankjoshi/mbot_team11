@@ -1,0 +1,13 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from mbot_interfaces/msg/Pose2DArray.msg
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Pose2D.idl"
+
+module mbot_interfaces {
+  module msg {
+    struct Pose2DArray {
+      sequence<geometry_msgs::msg::Pose2D> poses;
+    };
+  };
+};

@@ -1,0 +1,25 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from mbot_interfaces/msg/BatteryADC.msg
+// generated code does not contain a copyright notice
+
+#include "builtin_interfaces/msg/Time.idl"
+
+module mbot_interfaces {
+  module msg {
+    typedef int16 int16__4[4];
+    typedef float float__4[4];
+    struct BatteryADC {
+      @verbatim (language="comment", text=
+        "ROS time when analog data was read")
+      builtin_interfaces::msg::Time stamp;
+
+      @verbatim (language="comment", text=
+        "no units")
+      int16__4 raw;
+
+      @verbatim (language="comment", text=
+        "volts")
+      float__4 volts;
+    };
+  };
+};

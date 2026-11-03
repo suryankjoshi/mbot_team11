@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "mbot_interfaces__py",
+		"source" : "/home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces/mbot_interfaces__py"
+	}
+}

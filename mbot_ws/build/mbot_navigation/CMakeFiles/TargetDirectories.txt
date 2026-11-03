@@ -1,0 +1,9 @@
+/home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation/CMakeFiles/uninstall.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation/CMakeFiles/mbot_navigation_uninstall.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation/CMakeFiles/test.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation/CMakeFiles/edit_cache.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation/CMakeFiles/rebuild_cache.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation/CMakeFiles/list_install_components.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation/CMakeFiles/install.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation/CMakeFiles/install/local.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation/CMakeFiles/install/strip.dir

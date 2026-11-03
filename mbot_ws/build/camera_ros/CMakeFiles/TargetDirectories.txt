@@ -1,0 +1,13 @@
+/home/mbot/Desktop/botlab/mbot_ws/build/camera_ros/CMakeFiles/uninstall.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/camera_ros/CMakeFiles/camera_ros_uninstall.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/camera_ros/CMakeFiles/utils.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/camera_ros/CMakeFiles/param.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/camera_ros/CMakeFiles/camera_component.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/camera_ros/CMakeFiles/camera_node.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/camera_ros/CMakeFiles/test.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/camera_ros/CMakeFiles/edit_cache.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/camera_ros/CMakeFiles/rebuild_cache.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/camera_ros/CMakeFiles/list_install_components.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/camera_ros/CMakeFiles/install.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/camera_ros/CMakeFiles/install/local.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/camera_ros/CMakeFiles/install/strip.dir

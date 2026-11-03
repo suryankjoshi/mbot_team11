@@ -1,0 +1,11 @@
+/home/mbot/Desktop/botlab/mbot_ws/build/sllidar_ros2/CMakeFiles/uninstall.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/sllidar_ros2/CMakeFiles/sllidar_ros2_uninstall.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/sllidar_ros2/CMakeFiles/sllidar_node.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/sllidar_ros2/CMakeFiles/sllidar_client.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/sllidar_ros2/CMakeFiles/test.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/sllidar_ros2/CMakeFiles/edit_cache.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/sllidar_ros2/CMakeFiles/rebuild_cache.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/sllidar_ros2/CMakeFiles/list_install_components.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/sllidar_ros2/CMakeFiles/install.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/sllidar_ros2/CMakeFiles/install/local.dir
+/home/mbot/Desktop/botlab/mbot_ws/build/sllidar_ros2/CMakeFiles/install/strip.dir

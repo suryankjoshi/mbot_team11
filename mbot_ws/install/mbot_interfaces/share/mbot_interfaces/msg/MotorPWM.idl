@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from mbot_interfaces/msg/MotorPWM.msg
+// generated code does not contain a copyright notice
+
+
+module mbot_interfaces {
+  module msg {
+    typedef float float__3[3];
+    struct MotorPWM {
+      @verbatim (language="comment", text=
+        "[-1.0, 1.0]")
+      float__3 pwm;
+    };
+  };
+};

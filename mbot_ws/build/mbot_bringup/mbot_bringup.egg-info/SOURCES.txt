@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/mbot_bringup/mbot_bringup.egg-info/PKG-INFO
+../../build/mbot_bringup/mbot_bringup.egg-info/SOURCES.txt
+../../build/mbot_bringup/mbot_bringup.egg-info/dependency_links.txt
+../../build/mbot_bringup/mbot_bringup.egg-info/requires.txt
+../../build/mbot_bringup/mbot_bringup.egg-info/top_level.txt
+../../build/mbot_bringup/mbot_bringup.egg-info/zip-safe
+launch/mbot_bringup.launch.py
+launch/mbot_viz.launch.py
+mbot_bringup/__init__.py
+resource/mbot_bringup
+rviz/mbot_viz.rviz
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

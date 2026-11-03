@@ -1,0 +1,10 @@
+{
+  "package_name": "mbot_interfaces",
+  "non_idl_tuples": [
+    "/home/mbot/Desktop/botlab/mbot_ws/src/mbot_interfaces:msg/Encoders.msg",
+    "/home/mbot/Desktop/botlab/mbot_ws/src/mbot_interfaces:msg/MotorPWM.msg",
+    "/home/mbot/Desktop/botlab/mbot_ws/src/mbot_interfaces:msg/MotorVelocity.msg",
+    "/home/mbot/Desktop/botlab/mbot_ws/src/mbot_interfaces:msg/BatteryADC.msg",
+    "/home/mbot/Desktop/botlab/mbot_ws/src/mbot_interfaces:msg/Pose2DArray.msg"
+  ]
+}

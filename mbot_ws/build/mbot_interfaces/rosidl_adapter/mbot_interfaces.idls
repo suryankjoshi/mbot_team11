@@ -1,0 +1,5 @@
+/home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces/rosidl_adapter/mbot_interfaces:msg/Encoders.idl
+/home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces/rosidl_adapter/mbot_interfaces:msg/MotorPWM.idl
+/home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces/rosidl_adapter/mbot_interfaces:msg/MotorVelocity.idl
+/home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces/rosidl_adapter/mbot_interfaces:msg/BatteryADC.idl
+/home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces/rosidl_adapter/mbot_interfaces:msg/Pose2DArray.idl

@@ -1,0 +1,3 @@
+[console_scripts]
+apriltag_photo_capture = mbot_vision.apriltag_photo_capture:main
+calibration_marker = mbot_vision.calibration_marker:main
