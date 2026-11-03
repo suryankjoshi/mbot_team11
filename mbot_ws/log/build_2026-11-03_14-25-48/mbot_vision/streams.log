@@ -1,0 +1,52 @@
+[1.238s] Invoking command in '/home/mbot/Desktop/botlab/mbot_ws/src/mbot_vision': AMENT_PREFIX_PATH=/home/mbot/Desktop/botlab/mbot_ws/install/camera_ros:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mbot/Desktop/botlab/mbot_ws/install/camera_ros:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/mbot/Desktop/botlab/mbot_ws/install/camera_ros/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mbot/Desktop/botlab/mbot_ws/build/mbot_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mbot_vision build --build-base /home/mbot/Desktop/botlab/mbot_ws/build/mbot_vision/build install --record /home/mbot/Desktop/botlab/mbot_ws/build/mbot_vision/install.log --single-version-externally-managed install_data
+[1.609s] running egg_info
+[1.609s] creating ../../build/mbot_vision/mbot_vision.egg-info
+[1.636s] writing ../../build/mbot_vision/mbot_vision.egg-info/PKG-INFO
+[1.636s] writing dependency_links to ../../build/mbot_vision/mbot_vision.egg-info/dependency_links.txt
+[1.636s] writing entry points to ../../build/mbot_vision/mbot_vision.egg-info/entry_points.txt
+[1.637s] writing requirements to ../../build/mbot_vision/mbot_vision.egg-info/requires.txt
+[1.637s] writing top-level names to ../../build/mbot_vision/mbot_vision.egg-info/top_level.txt
+[1.637s] writing manifest file '../../build/mbot_vision/mbot_vision.egg-info/SOURCES.txt'
+[1.691s] reading manifest file '../../build/mbot_vision/mbot_vision.egg-info/SOURCES.txt'
+[1.692s] writing manifest file '../../build/mbot_vision/mbot_vision.egg-info/SOURCES.txt'
+[1.692s] running build
+[1.692s] running build_py
+[1.693s] creating /home/mbot/Desktop/botlab/mbot_ws/build/mbot_vision/build
+[1.693s] creating /home/mbot/Desktop/botlab/mbot_ws/build/mbot_vision/build/lib
+[1.693s] creating /home/mbot/Desktop/botlab/mbot_ws/build/mbot_vision/build/lib/mbot_vision
+[1.693s] copying mbot_vision/calibration_marker.py -> /home/mbot/Desktop/botlab/mbot_ws/build/mbot_vision/build/lib/mbot_vision
+[1.697s] copying mbot_vision/apriltag_photo_capture.py -> /home/mbot/Desktop/botlab/mbot_ws/build/mbot_vision/build/lib/mbot_vision
+[1.697s] copying mbot_vision/__init__.py -> /home/mbot/Desktop/botlab/mbot_ws/build/mbot_vision/build/lib/mbot_vision
+[1.698s] running install
+[1.707s] running install_lib
+[1.736s] creating /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/lib/python3.12/site-packages/mbot_vision
+[1.736s] copying /home/mbot/Desktop/botlab/mbot_ws/build/mbot_vision/build/lib/mbot_vision/calibration_marker.py -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/lib/python3.12/site-packages/mbot_vision
+[1.736s] copying /home/mbot/Desktop/botlab/mbot_ws/build/mbot_vision/build/lib/mbot_vision/apriltag_photo_capture.py -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/lib/python3.12/site-packages/mbot_vision
+[1.736s] copying /home/mbot/Desktop/botlab/mbot_ws/build/mbot_vision/build/lib/mbot_vision/__init__.py -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/lib/python3.12/site-packages/mbot_vision
+[1.737s] byte-compiling /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/lib/python3.12/site-packages/mbot_vision/calibration_marker.py to calibration_marker.cpython-312.pyc
+[1.739s] byte-compiling /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/lib/python3.12/site-packages/mbot_vision/apriltag_photo_capture.py to apriltag_photo_capture.cpython-312.pyc
+[1.741s] byte-compiling /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/lib/python3.12/site-packages/mbot_vision/__init__.py to __init__.cpython-312.pyc
+[1.741s] running install_data
+[1.741s] creating /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/share/ament_index
+[1.741s] creating /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/share/ament_index/resource_index
+[1.742s] creating /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/share/ament_index/resource_index/packages
+[1.742s] copying resource/mbot_vision -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/share/ament_index/resource_index/packages
+[1.742s] copying package.xml -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/share/mbot_vision
+[1.742s] creating /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/share/mbot_vision/calibration
+[1.742s] creating /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/share/mbot_vision/config
+[1.742s] copying config/camera.yaml -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/share/mbot_vision/config
+[1.743s] copying config/marker.yaml -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/share/mbot_vision/config
+[1.743s] copying config/tags_custom48h12.yaml -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/share/mbot_vision/config
+[1.743s] creating /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/share/mbot_vision/launch
+[1.743s] copying launch/calibration_marker.launch.py -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/share/mbot_vision/launch
+[1.744s] copying launch/camera.launch.py -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/share/mbot_vision/launch
+[1.744s] copying launch/apriltag_with_photos.launch.py -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/share/mbot_vision/launch
+[1.744s] copying launch/apriltag.launch.py -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/share/mbot_vision/launch
+[1.745s] copying launch/camera_rectify.launch.py -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/share/mbot_vision/launch
+[1.745s] running install_egg_info
+[1.775s] Copying ../../build/mbot_vision/mbot_vision.egg-info to /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/lib/python3.12/site-packages/mbot_vision-0.0.0-py3.12.egg-info
+[1.776s] running install_scripts
+[1.968s] Installing apriltag_photo_capture script to /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/lib/mbot_vision
+[1.968s] Installing calibration_marker script to /home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/lib/mbot_vision
+[1.969s] writing list of installed files to '/home/mbot/Desktop/botlab/mbot_ws/build/mbot_vision/install.log'
+[2.052s] Invoked command in '/home/mbot/Desktop/botlab/mbot_ws/src/mbot_vision' returned '0': AMENT_PREFIX_PATH=/home/mbot/Desktop/botlab/mbot_ws/install/camera_ros:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mbot/Desktop/botlab/mbot_ws/install/camera_ros:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/mbot/Desktop/botlab/mbot_ws/install/camera_ros/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/mbot/Desktop/botlab/mbot_ws/build/mbot_vision/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mbot/Desktop/botlab/mbot_ws/install/mbot_vision/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mbot_vision build --build-base /home/mbot/Desktop/botlab/mbot_ws/build/mbot_vision/build install --record /home/mbot/Desktop/botlab/mbot_ws/build/mbot_vision/install.log --single-version-externally-managed install_data

@@ -1,0 +1,37 @@
+[5.091s] Invoking command in '/home/mbot/Desktop/botlab/mbot_ws/src/mbot_bringup': AMENT_PREFIX_PATH=/home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation:/home/mbot/Desktop/botlab/mbot_ws/install/mbot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation:/home/mbot/Desktop/botlab/mbot_ws/install/mbot_description:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mbot/Desktop/botlab/mbot_ws/build/mbot_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mbot/Desktop/botlab/mbot_ws/install/mbot_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mbot_bringup build --build-base /home/mbot/Desktop/botlab/mbot_ws/build/mbot_bringup/build install --record /home/mbot/Desktop/botlab/mbot_ws/build/mbot_bringup/install.log --single-version-externally-managed install_data
+[5.850s] running egg_info
+[5.851s] creating ../../build/mbot_bringup/mbot_bringup.egg-info
+[5.915s] writing ../../build/mbot_bringup/mbot_bringup.egg-info/PKG-INFO
+[5.915s] writing dependency_links to ../../build/mbot_bringup/mbot_bringup.egg-info/dependency_links.txt
+[5.915s] writing requirements to ../../build/mbot_bringup/mbot_bringup.egg-info/requires.txt
+[5.916s] writing top-level names to ../../build/mbot_bringup/mbot_bringup.egg-info/top_level.txt
+[5.916s] writing manifest file '../../build/mbot_bringup/mbot_bringup.egg-info/SOURCES.txt'
+[6.492s] reading manifest file '../../build/mbot_bringup/mbot_bringup.egg-info/SOURCES.txt'
+[6.493s] writing manifest file '../../build/mbot_bringup/mbot_bringup.egg-info/SOURCES.txt'
+[6.503s] running build
+[6.503s] running build_py
+[6.503s] creating /home/mbot/Desktop/botlab/mbot_ws/build/mbot_bringup/build
+[6.504s] creating /home/mbot/Desktop/botlab/mbot_ws/build/mbot_bringup/build/lib
+[6.509s] creating /home/mbot/Desktop/botlab/mbot_ws/build/mbot_bringup/build/lib/mbot_bringup
+[6.510s] copying mbot_bringup/__init__.py -> /home/mbot/Desktop/botlab/mbot_ws/build/mbot_bringup/build/lib/mbot_bringup
+[6.516s] running install
+[6.582s] running install_lib
+[6.847s] creating /home/mbot/Desktop/botlab/mbot_ws/install/mbot_bringup/lib/python3.12/site-packages/mbot_bringup
+[6.848s] copying /home/mbot/Desktop/botlab/mbot_ws/build/mbot_bringup/build/lib/mbot_bringup/__init__.py -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_bringup/lib/python3.12/site-packages/mbot_bringup
+[6.858s] byte-compiling /home/mbot/Desktop/botlab/mbot_ws/install/mbot_bringup/lib/python3.12/site-packages/mbot_bringup/__init__.py to __init__.cpython-312.pyc
+[6.858s] running install_data
+[6.864s] creating /home/mbot/Desktop/botlab/mbot_ws/install/mbot_bringup/share/ament_index
+[6.865s] creating /home/mbot/Desktop/botlab/mbot_ws/install/mbot_bringup/share/ament_index/resource_index
+[6.865s] creating /home/mbot/Desktop/botlab/mbot_ws/install/mbot_bringup/share/ament_index/resource_index/packages
+[6.865s] copying resource/mbot_bringup -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_bringup/share/ament_index/resource_index/packages
+[6.875s] copying package.xml -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_bringup/share/mbot_bringup
+[6.875s] creating /home/mbot/Desktop/botlab/mbot_ws/install/mbot_bringup/share/mbot_bringup/launch
+[6.876s] copying launch/mbot_bringup.launch.py -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_bringup/share/mbot_bringup/launch
+[6.876s] copying launch/mbot_viz.launch.py -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_bringup/share/mbot_bringup/launch
+[6.878s] creating /home/mbot/Desktop/botlab/mbot_ws/install/mbot_bringup/share/mbot_bringup/rviz
+[6.880s] copying rviz/mbot_viz.rviz -> /home/mbot/Desktop/botlab/mbot_ws/install/mbot_bringup/share/mbot_bringup/rviz
+[6.882s] running install_egg_info
+[7.084s] Copying ../../build/mbot_bringup/mbot_bringup.egg-info to /home/mbot/Desktop/botlab/mbot_ws/install/mbot_bringup/lib/python3.12/site-packages/mbot_bringup-0.0.0-py3.12.egg-info
+[7.086s] running install_scripts
+[8.181s] writing list of installed files to '/home/mbot/Desktop/botlab/mbot_ws/build/mbot_bringup/install.log'
+[8.383s] Invoked command in '/home/mbot/Desktop/botlab/mbot_ws/src/mbot_bringup' returned '0': AMENT_PREFIX_PATH=/home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation:/home/mbot/Desktop/botlab/mbot_ws/install/mbot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation:/home/mbot/Desktop/botlab/mbot_ws/install/mbot_description:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mbot/Desktop/botlab/mbot_ws/build/mbot_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mbot/Desktop/botlab/mbot_ws/install/mbot_bringup/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mbot_bringup build --build-base /home/mbot/Desktop/botlab/mbot_ws/build/mbot_bringup/build install --record /home/mbot/Desktop/botlab/mbot_ws/build/mbot_bringup/install.log --single-version-externally-managed install_data

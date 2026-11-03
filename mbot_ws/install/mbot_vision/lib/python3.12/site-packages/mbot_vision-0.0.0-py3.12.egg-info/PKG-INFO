@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: mbot-vision
+Version: 0.0.0
+Summary: MBot vision package for camera, rectification, and AprilTag detection
+Maintainer: Shaw
+Maintainer-email: xssun@umich.edu
+License: TODO: License declaration

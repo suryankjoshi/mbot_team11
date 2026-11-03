@@ -1,0 +1,364 @@
+[0.032s] Invoking command in '/home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mbot/mbot_ws/install/mbot_vision:/home/mbot/mbot_ws/install/mbot_bringup:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/mbot/Desktop/botlab/mbot_ws/src/mbot_interfaces -DCMAKE_INSTALL_PREFIX=/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces
+[0.881s] -- The C compiler identification is GNU 13.3.0
+[1.466s] -- The CXX compiler identification is GNU 13.3.0
+[1.541s] -- Detecting C compiler ABI info
+[1.903s] -- Detecting C compiler ABI info - done
+[1.918s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.921s] -- Detecting C compile features
+[1.923s] -- Detecting C compile features - done
+[1.941s] -- Detecting CXX compiler ABI info
+[2.328s] -- Detecting CXX compiler ABI info - done
+[2.344s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.344s] -- Detecting CXX compile features
+[2.345s] -- Detecting CXX compile features - done
+[2.353s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.973s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[3.378s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[3.403s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.568s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.703s] -- Found rosidl_adapter: 4.6.5 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[3.718s] -- Found builtin_interfaces: 2.0.2 (/opt/ros/jazzy/share/builtin_interfaces/cmake)
+[3.770s] -- Found geometry_msgs: 5.3.6 (/opt/ros/jazzy/share/geometry_msgs/cmake)
+[5.853s] -- Found ament_cmake_ros: 0.12.0 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+[7.388s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[12.020s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[12.054s] -- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+[13.371s] -- Found PythonExtra: /usr/bin/python3  
+[15.848s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development NumPy Development.Module Development.Embed 
+[16.308s] -- Configuring done (16.1s)
+[16.653s] -- Generating done (0.3s)
+[16.775s] -- Build files have been written to: /home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces
+[16.873s] Invoked command in '/home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mbot/mbot_ws/install/mbot_vision:/home/mbot/mbot_ws/install/mbot_bringup:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/mbot/Desktop/botlab/mbot_ws/src/mbot_interfaces -DCMAKE_INSTALL_PREFIX=/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces
+[16.874s] Invoking command in '/home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mbot/mbot_ws/install/mbot_vision:/home/mbot/mbot_ws/install/mbot_bringup:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces -- -j4 -l4
+[17.094s] [  0%] Built target ament_cmake_python_copy_mbot_interfaces
+[17.181s] [  1%] [34m[1mGenerating type hashes for ROS interfaces[0m
+[18.950s] running egg_info
+[18.950s] creating mbot_interfaces.egg-info
+[19.076s] writing mbot_interfaces.egg-info/PKG-INFO
+[19.076s] writing dependency_links to mbot_interfaces.egg-info/dependency_links.txt
+[19.084s] writing top-level names to mbot_interfaces.egg-info/top_level.txt
+[19.084s] writing manifest file 'mbot_interfaces.egg-info/SOURCES.txt'
+[19.736s] reading manifest file 'mbot_interfaces.egg-info/SOURCES.txt'
+[19.736s] writing manifest file 'mbot_interfaces.egg-info/SOURCES.txt'
+[19.859s] [  1%] Built target mbot_interfaces__rosidl_generator_type_description
+[19.936s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[20.018s] [  4%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[20.118s] [  4%] Built target ament_cmake_python_build_mbot_interfaces_egg
+[23.159s] [  4%] Built target mbot_interfaces__cpp
+[23.788s] [  5%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/mbot_interfaces/msg/detail/encoders__description.c.o[0m
+[23.823s] [  6%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/mbot_interfaces/msg/detail/encoders__functions.c.o[0m
+[23.834s] [  8%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/mbot_interfaces/msg/detail/encoders__type_support.c.o[0m
+[24.069s] [  9%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/mbot_interfaces/msg/detail/motor_pwm__description.c.o[0m
+[24.151s] [ 10%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/mbot_interfaces/msg/detail/motor_pwm__functions.c.o[0m
+[24.297s] [ 12%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/mbot_interfaces/msg/detail/motor_pwm__type_support.c.o[0m
+[24.349s] [ 13%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/mbot_interfaces/msg/detail/motor_velocity__description.c.o[0m
+[24.555s] [ 14%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/mbot_interfaces/msg/detail/motor_velocity__functions.c.o[0m
+[24.664s] [ 16%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/mbot_interfaces/msg/detail/motor_velocity__type_support.c.o[0m
+[24.698s] [ 17%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/mbot_interfaces/msg/detail/battery_adc__description.c.o[0m
+[24.725s] [ 18%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/mbot_interfaces/msg/detail/battery_adc__functions.c.o[0m
+[24.783s] [ 20%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/mbot_interfaces/msg/detail/battery_adc__type_support.c.o[0m
+[24.862s] [ 21%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/mbot_interfaces/msg/detail/pose2_d_array__description.c.o[0m
+[24.898s] [ 22%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/mbot_interfaces/msg/detail/pose2_d_array__functions.c.o[0m
+[25.248s] [ 24%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_c.dir/rosidl_generator_c/mbot_interfaces/msg/detail/pose2_d_array__type_support.c.o[0m
+[25.436s] [ 25%] [32m[1mLinking C shared library libmbot_interfaces__rosidl_generator_c.so[0m
+[25.716s] [ 25%] Built target mbot_interfaces__rosidl_generator_c
+[25.779s] [ 27%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[27.421s] [ 28%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/mbot_interfaces/msg/encoders__type_support.cpp.o[0m
+[28.607s] [ 29%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/mbot_interfaces/msg/motor_pwm__type_support.cpp.o[0m
+[29.510s] [ 31%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/mbot_interfaces/msg/motor_velocity__type_support.cpp.o[0m
+[30.491s] [ 32%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/mbot_interfaces/msg/battery_adc__type_support.cpp.o[0m
+[31.488s] [ 33%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/mbot_interfaces/msg/pose2_d_array__type_support.cpp.o[0m
+[32.899s] [ 35%] [32m[1mLinking CXX shared library libmbot_interfaces__rosidl_typesupport_cpp.so[0m
+[33.157s] [ 35%] Built target mbot_interfaces__rosidl_typesupport_cpp
+[33.226s] [ 36%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[34.793s] [ 37%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/mbot_interfaces/msg/encoders__type_support.cpp.o[0m
+[34.909s] [ 39%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/mbot_interfaces/msg/motor_pwm__type_support.cpp.o[0m
+[35.022s] [ 40%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/mbot_interfaces/msg/motor_velocity__type_support.cpp.o[0m
+[35.137s] [ 41%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/mbot_interfaces/msg/battery_adc__type_support.cpp.o[0m
+[35.252s] [ 43%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/mbot_interfaces/msg/pose2_d_array__type_support.cpp.o[0m
+[35.367s] [ 44%] [32m[1mLinking CXX shared library libmbot_interfaces__rosidl_typesupport_c.so[0m
+[35.499s] [ 44%] Built target mbot_interfaces__rosidl_typesupport_c
+[35.532s] [ 45%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[37.076s] [ 47%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/mbot_interfaces/msg/detail/dds_fastrtps/encoders__type_support.cpp.o[0m
+[38.426s] [ 48%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/mbot_interfaces/msg/detail/dds_fastrtps/motor_pwm__type_support.cpp.o[0m
+[39.673s] [ 50%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/mbot_interfaces/msg/detail/dds_fastrtps/motor_velocity__type_support.cpp.o[0m
+[40.763s] [ 51%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/mbot_interfaces/msg/detail/dds_fastrtps/battery_adc__type_support.cpp.o[0m
+[42.098s] [ 52%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/mbot_interfaces/msg/detail/dds_fastrtps/pose2_d_array__type_support.cpp.o[0m
+[43.979s] [ 54%] [32m[1mLinking CXX shared library libmbot_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[44.205s] [ 54%] Built target mbot_interfaces__rosidl_typesupport_fastrtps_cpp
+[44.234s] [ 55%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[45.130s] [ 56%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mbot_interfaces/msg/detail/encoders__type_support.cpp.o[0m
+[45.745s] [ 58%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mbot_interfaces/msg/detail/motor_pwm__type_support.cpp.o[0m
+[46.380s] [ 59%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mbot_interfaces/msg/detail/motor_velocity__type_support.cpp.o[0m
+[47.332s] [ 60%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mbot_interfaces/msg/detail/battery_adc__type_support.cpp.o[0m
+[47.898s] [ 62%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/mbot_interfaces/msg/detail/pose2_d_array__type_support.cpp.o[0m
+[48.462s] [ 63%] [32m[1mLinking CXX shared library libmbot_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[48.638s] [ 63%] Built target mbot_interfaces__rosidl_typesupport_introspection_cpp
+[48.659s] [ 64%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[49.443s] [ 66%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mbot_interfaces/msg/detail/encoders__type_support.c.o[0m
+[49.528s] [ 67%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mbot_interfaces/msg/detail/motor_velocity__type_support.c.o[0m
+[49.603s] [ 68%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mbot_interfaces/msg/detail/battery_adc__type_support.c.o[0m
+[49.683s] [ 70%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mbot_interfaces/msg/detail/pose2_d_array__type_support.c.o[0m
+[49.761s] [ 71%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/mbot_interfaces/msg/detail/motor_pwm__type_support.c.o[0m
+[49.837s] [ 72%] [32m[1mLinking C shared library libmbot_interfaces__rosidl_typesupport_introspection_c.so[0m
+[49.906s] [ 72%] Built target mbot_interfaces__rosidl_typesupport_introspection_c
+[49.925s] [ 74%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[50.809s] [ 75%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/mbot_interfaces/msg/detail/encoders__type_support_c.cpp.o[0m
+[51.544s] [ 77%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/mbot_interfaces/msg/detail/battery_adc__type_support_c.cpp.o[0m
+[52.294s] [ 78%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/mbot_interfaces/msg/detail/pose2_d_array__type_support_c.cpp.o[0m
+[53.024s] [ 79%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/mbot_interfaces/msg/detail/motor_velocity__type_support_c.cpp.o[0m
+[53.743s] [ 81%] [32mBuilding CXX object CMakeFiles/mbot_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/mbot_interfaces/msg/detail/motor_pwm__type_support_c.cpp.o[0m
+[54.489s] [ 82%] [32m[1mLinking CXX shared library libmbot_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[54.596s] [ 82%] Built target mbot_interfaces__rosidl_typesupport_fastrtps_c
+[54.638s] [ 82%] Built target mbot_interfaces
+[54.683s] [ 83%] [34m[1mGenerating Python code for ROS interfaces[0m
+[55.907s] [ 83%] Built target mbot_interfaces__py
+[55.950s] [ 86%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_py.dir/rosidl_generator_py/mbot_interfaces/msg/_motor_pwm_s.c.o[0m
+[55.952s] [ 86%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_py.dir/rosidl_generator_py/mbot_interfaces/msg/_encoders_s.c.o[0m
+[56.231s] [ 87%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_py.dir/rosidl_generator_py/mbot_interfaces/msg/_battery_adc_s.c.o[0m
+[56.239s] [ 89%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_py.dir/rosidl_generator_py/mbot_interfaces/msg/_pose2_d_array_s.c.o[0m
+[56.474s] [ 90%] [32mBuilding C object CMakeFiles/mbot_interfaces__rosidl_generator_py.dir/rosidl_generator_py/mbot_interfaces/msg/_motor_velocity_s.c.o[0m
+[56.690s] [ 91%] [32m[1mLinking C shared library libmbot_interfaces__rosidl_generator_py.so[0m
+[56.809s] [ 91%] Built target mbot_interfaces__rosidl_generator_py
+[56.862s] [ 94%] [32mBuilding C object CMakeFiles/mbot_interfaces_s__rosidl_typesupport_introspection_c.dir/rosidl_generator_py/mbot_interfaces/_mbot_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[56.863s] [ 94%] [32mBuilding C object CMakeFiles/mbot_interfaces_s__rosidl_typesupport_fastrtps_c.dir/rosidl_generator_py/mbot_interfaces/_mbot_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[57.080s] [ 95%] [32m[1mLinking C shared module rosidl_generator_py/mbot_interfaces/mbot_interfaces_s__rosidl_typesupport_introspection_c.so[0m
+[57.094s] [ 97%] [32m[1mLinking C shared module rosidl_generator_py/mbot_interfaces/mbot_interfaces_s__rosidl_typesupport_fastrtps_c.so[0m
+[57.154s] [ 97%] Built target mbot_interfaces_s__rosidl_typesupport_introspection_c
+[57.169s] [ 97%] Built target mbot_interfaces_s__rosidl_typesupport_fastrtps_c
+[57.198s] [ 98%] [32mBuilding C object CMakeFiles/mbot_interfaces_s__rosidl_typesupport_c.dir/rosidl_generator_py/mbot_interfaces/_mbot_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[57.417s] [100%] [32m[1mLinking C shared module rosidl_generator_py/mbot_interfaces/mbot_interfaces_s__rosidl_typesupport_c.so[0m
+[57.482s] [100%] Built target mbot_interfaces_s__rosidl_typesupport_c
+[57.511s] Invoked command in '/home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mbot/mbot_ws/install/mbot_vision:/home/mbot/mbot_ws/install/mbot_bringup:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces -- -j4 -l4
+[57.512s] Invoking command in '/home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mbot/mbot_ws/install/mbot_vision:/home/mbot/mbot_ws/install/mbot_bringup:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces
+[57.530s] -- Install configuration: ""
+[57.530s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/ament_index/resource_index/rosidl_interfaces/mbot_interfaces
+[57.530s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/msg/Encoders.json
+[57.531s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/msg/MotorPWM.json
+[57.531s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/msg/MotorVelocity.json
+[57.531s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/msg/BatteryADC.json
+[57.531s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/msg/Pose2DArray.json
+[57.531s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces
+[57.532s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg
+[57.532s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/pose2_d_array.h
+[57.532s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/rosidl_generator_c__visibility_control.h
+[57.532s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail
+[57.532s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/pose2_d_array__struct.h
+[57.533s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/encoders__functions.h
+[57.533s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/pose2_d_array__type_support.c
+[57.533s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_pwm__functions.c
+[57.533s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_velocity__struct.h
+[57.533s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/battery_adc__functions.h
+[57.533s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/pose2_d_array__functions.h
+[57.533s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/encoders__type_support.h
+[57.534s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_pwm__type_support.h
+[57.534s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/encoders__functions.c
+[57.534s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_velocity__functions.h
+[57.534s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_velocity__description.c
+[57.534s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_velocity__type_support.h
+[57.534s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/encoders__description.c
+[57.535s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_velocity__type_support.c
+[57.535s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/pose2_d_array__functions.c
+[57.535s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/pose2_d_array__description.c
+[57.535s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_pwm__type_support.c
+[57.535s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/battery_adc__description.c
+[57.536s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/pose2_d_array__type_support.h
+[57.536s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/battery_adc__type_support.c
+[57.536s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/encoders__type_support.c
+[57.536s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_velocity__functions.c
+[57.536s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/battery_adc__struct.h
+[57.536s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_pwm__functions.h
+[57.536s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_pwm__description.c
+[57.537s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_pwm__struct.h
+[57.537s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/battery_adc__functions.c
+[57.537s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/battery_adc__type_support.h
+[57.537s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/encoders__struct.h
+[57.537s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/battery_adc.h
+[57.538s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/motor_velocity.h
+[57.538s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/encoders.h
+[57.538s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/motor_pwm.h
+[57.538s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/environment/library_path.sh
+[57.538s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/environment/library_path.dsv
+[57.539s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/libmbot_interfaces__rosidl_generator_c.so
+[57.540s] -- Set non-toolchain portion of runtime path of "/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/libmbot_interfaces__rosidl_generator_c.so" to ""
+[57.540s] -- Up-to-date: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces
+[57.540s] -- Up-to-date: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg
+[57.540s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[57.541s] -- Up-to-date: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail
+[57.541s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/encoders__rosidl_typesupport_fastrtps_c.h
+[57.541s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/battery_adc__rosidl_typesupport_fastrtps_c.h
+[57.541s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_pwm__rosidl_typesupport_fastrtps_c.h
+[57.542s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_velocity__rosidl_typesupport_fastrtps_c.h
+[57.542s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/pose2_d_array__rosidl_typesupport_fastrtps_c.h
+[57.542s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/libmbot_interfaces__rosidl_typesupport_fastrtps_c.so
+[57.543s] -- Set non-toolchain portion of runtime path of "/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/libmbot_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+[57.543s] -- Up-to-date: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces
+[57.543s] -- Up-to-date: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg
+[57.543s] -- Up-to-date: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail
+[57.544s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/battery_adc__rosidl_typesupport_introspection_c.h
+[57.544s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/encoders__rosidl_typesupport_introspection_c.h
+[57.544s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/pose2_d_array__type_support.c
+[57.544s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_velocity__type_support.c
+[57.544s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_pwm__type_support.c
+[57.545s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/pose2_d_array__rosidl_typesupport_introspection_c.h
+[57.545s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/battery_adc__type_support.c
+[57.545s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/encoders__type_support.c
+[57.545s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_velocity__rosidl_typesupport_introspection_c.h
+[57.545s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_pwm__rosidl_typesupport_introspection_c.h
+[57.545s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[57.546s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/libmbot_interfaces__rosidl_typesupport_introspection_c.so
+[57.546s] -- Set non-toolchain portion of runtime path of "/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/libmbot_interfaces__rosidl_typesupport_introspection_c.so" to ""
+[57.547s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/libmbot_interfaces__rosidl_typesupport_c.so
+[57.547s] -- Set non-toolchain portion of runtime path of "/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/libmbot_interfaces__rosidl_typesupport_c.so" to ""
+[57.548s] -- Up-to-date: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces
+[57.548s] -- Up-to-date: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg
+[57.548s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/motor_velocity.hpp
+[57.548s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/motor_pwm.hpp
+[57.548s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/pose2_d_array.hpp
+[57.548s] -- Up-to-date: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail
+[57.548s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/pose2_d_array__struct.hpp
+[57.548s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/encoders__struct.hpp
+[57.549s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/pose2_d_array__type_support.hpp
+[57.549s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_pwm__builder.hpp
+[57.549s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_velocity__struct.hpp
+[57.549s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/battery_adc__type_support.hpp
+[57.549s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_velocity__builder.hpp
+[57.549s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/pose2_d_array__builder.hpp
+[57.549s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_pwm__struct.hpp
+[57.549s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/pose2_d_array__traits.hpp
+[57.550s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/battery_adc__builder.hpp
+[57.550s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/battery_adc__struct.hpp
+[57.550s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_pwm__type_support.hpp
+[57.550s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_velocity__type_support.hpp
+[57.550s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_velocity__traits.hpp
+[57.550s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/encoders__traits.hpp
+[57.551s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_pwm__traits.hpp
+[57.551s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/encoders__builder.hpp
+[57.551s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/battery_adc__traits.hpp
+[57.551s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/encoders__type_support.hpp
+[57.551s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/encoders.hpp
+[57.551s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[57.552s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/battery_adc.hpp
+[57.552s] -- Up-to-date: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces
+[57.552s] -- Up-to-date: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg
+[57.552s] -- Up-to-date: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail
+[57.552s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/battery_adc__rosidl_typesupport_fastrtps_cpp.hpp
+[57.552s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/pose2_d_array__rosidl_typesupport_fastrtps_cpp.hpp
+[57.552s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_pwm__rosidl_typesupport_fastrtps_cpp.hpp
+[57.553s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/dds_fastrtps
+[57.553s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_velocity__rosidl_typesupport_fastrtps_cpp.hpp
+[57.553s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/encoders__rosidl_typesupport_fastrtps_cpp.hpp
+[57.553s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[57.553s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/libmbot_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[57.554s] -- Set non-toolchain portion of runtime path of "/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/libmbot_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+[57.554s] -- Up-to-date: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces
+[57.554s] -- Up-to-date: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg
+[57.555s] -- Up-to-date: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail
+[57.555s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_velocity__rosidl_typesupport_introspection_cpp.hpp
+[57.555s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/pose2_d_array__rosidl_typesupport_introspection_cpp.hpp
+[57.555s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/pose2_d_array__type_support.cpp
+[57.555s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_velocity__type_support.cpp
+[57.555s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/battery_adc__type_support.cpp
+[57.555s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_pwm__type_support.cpp
+[57.556s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/motor_pwm__rosidl_typesupport_introspection_cpp.hpp
+[57.556s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/battery_adc__rosidl_typesupport_introspection_cpp.hpp
+[57.556s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/encoders__rosidl_typesupport_introspection_cpp.hpp
+[57.556s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/include/mbot_interfaces/mbot_interfaces/msg/detail/encoders__type_support.cpp
+[57.556s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/libmbot_interfaces__rosidl_typesupport_introspection_cpp.so
+[57.557s] -- Set non-toolchain portion of runtime path of "/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/libmbot_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+[57.557s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/libmbot_interfaces__rosidl_typesupport_cpp.so
+[57.558s] -- Set non-toolchain portion of runtime path of "/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/libmbot_interfaces__rosidl_typesupport_cpp.so" to ""
+[57.558s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/environment/pythonpath.sh
+[57.558s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/environment/pythonpath.dsv
+[57.559s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces-0.0.0-py3.12.egg-info
+[57.559s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces-0.0.0-py3.12.egg-info/dependency_links.txt
+[57.559s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces-0.0.0-py3.12.egg-info/PKG-INFO
+[57.559s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces-0.0.0-py3.12.egg-info/top_level.txt
+[57.559s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces-0.0.0-py3.12.egg-info/SOURCES.txt
+[57.559s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces
+[57.560s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/mbot_interfaces_s__rosidl_typesupport_fastrtps_c.so
+[57.560s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/_mbot_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[57.560s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/mbot_interfaces_s__rosidl_typesupport_c.so
+[57.560s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/mbot_interfaces_s__rosidl_typesupport_introspection_c.so
+[57.561s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/_mbot_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[57.561s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/_mbot_interfaces_s.ep.rosidl_typesupport_c.c
+[57.561s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/__init__.py
+[57.561s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg
+[57.561s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/_motor_pwm_s.c
+[57.562s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/_motor_pwm.py
+[57.562s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/_pose2_d_array_s.c
+[57.562s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/_motor_velocity.py
+[57.562s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/_battery_adc.py
+[57.562s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/_encoders_s.c
+[57.562s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/_battery_adc_s.c
+[57.563s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/__init__.py
+[57.563s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/_pose2_d_array.py
+[57.563s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/_encoders.py
+[57.563s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/_motor_velocity_s.c
+[57.642s] Listing '/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces'...
+[57.642s] Compiling '/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/__init__.py'...
+[57.642s] Listing '/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg'...
+[57.642s] Compiling '/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/__init__.py'...
+[57.642s] Compiling '/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/_battery_adc.py'...
+[57.642s] Compiling '/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/_encoders.py'...
+[57.642s] Compiling '/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/_motor_pwm.py'...
+[57.643s] Compiling '/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/_motor_velocity.py'...
+[57.643s] Compiling '/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/msg/_pose2_d_array.py'...
+[57.659s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/mbot_interfaces_s__rosidl_typesupport_fastrtps_c.so
+[57.659s] -- Set non-toolchain portion of runtime path of "/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/mbot_interfaces_s__rosidl_typesupport_fastrtps_c.so" to ""
+[57.660s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/mbot_interfaces_s__rosidl_typesupport_introspection_c.so
+[57.660s] -- Set non-toolchain portion of runtime path of "/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/mbot_interfaces_s__rosidl_typesupport_introspection_c.so" to ""
+[57.661s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/mbot_interfaces_s__rosidl_typesupport_c.so
+[57.661s] -- Set non-toolchain portion of runtime path of "/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/python3.12/site-packages/mbot_interfaces/mbot_interfaces_s__rosidl_typesupport_c.so" to ""
+[57.662s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/libmbot_interfaces__rosidl_generator_py.so
+[57.662s] -- Set non-toolchain portion of runtime path of "/home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/lib/libmbot_interfaces__rosidl_generator_py.so" to ""
+[57.663s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/msg/Encoders.idl
+[57.663s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/msg/MotorPWM.idl
+[57.663s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/msg/MotorVelocity.idl
+[57.663s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/msg/BatteryADC.idl
+[57.663s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/msg/Pose2DArray.idl
+[57.664s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/msg/Encoders.msg
+[57.664s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/msg/MotorPWM.msg
+[57.664s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/msg/MotorVelocity.msg
+[57.664s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/msg/BatteryADC.msg
+[57.665s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/msg/Pose2DArray.msg
+[57.665s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/ament_index/resource_index/package_run_dependencies/mbot_interfaces
+[57.665s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/ament_index/resource_index/parent_prefix_path/mbot_interfaces
+[57.665s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/environment/ament_prefix_path.sh
+[57.666s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/environment/ament_prefix_path.dsv
+[57.666s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/environment/path.sh
+[57.666s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/environment/path.dsv
+[57.666s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/local_setup.bash
+[57.666s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/local_setup.sh
+[57.667s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/local_setup.zsh
+[57.667s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/local_setup.dsv
+[57.667s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/package.dsv
+[57.667s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/ament_index/resource_index/packages/mbot_interfaces
+[57.668s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/export_mbot_interfaces__rosidl_generator_cExport.cmake
+[57.670s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/export_mbot_interfaces__rosidl_generator_cExport-noconfig.cmake
+[57.670s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/export_mbot_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[57.670s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/export_mbot_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[57.670s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/mbot_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[57.670s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/mbot_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[57.670s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/mbot_interfaces__rosidl_typesupport_cExport.cmake
+[57.671s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/mbot_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[57.671s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/export_mbot_interfaces__rosidl_generator_cppExport.cmake
+[57.671s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/export_mbot_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[57.671s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/export_mbot_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[57.671s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/mbot_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[57.672s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/mbot_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[57.672s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/mbot_interfaces__rosidl_typesupport_cppExport.cmake
+[57.672s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/mbot_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[57.672s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/export_mbot_interfaces__rosidl_generator_pyExport.cmake
+[57.672s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/export_mbot_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[57.673s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/rosidl_cmake-extras.cmake
+[57.673s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[57.673s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[57.673s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[57.674s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[57.674s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[57.674s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[57.674s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/mbot_interfacesConfig.cmake
+[57.674s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/cmake/mbot_interfacesConfig-version.cmake
+[57.675s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_interfaces/share/mbot_interfaces/package.xml
+[57.679s] Invoked command in '/home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mbot/mbot_ws/install/mbot_vision:/home/mbot/mbot_ws/install/mbot_bringup:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/mbot/Desktop/botlab/mbot_ws/build/mbot_interfaces

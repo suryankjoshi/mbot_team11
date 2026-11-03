@@ -1,0 +1,58 @@
+[0.034s] Invoking command in '/home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mbot/mbot_ws/install/mbot_vision:/home/mbot/mbot_ws/install/mbot_bringup:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/mbot/Desktop/botlab/mbot_ws/src/mbot_navigation -DCMAKE_INSTALL_PREFIX=/home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation
+[0.887s] -- The C compiler identification is GNU 13.3.0
+[1.461s] -- The CXX compiler identification is GNU 13.3.0
+[1.547s] -- Detecting C compiler ABI info
+[1.910s] -- Detecting C compiler ABI info - done
+[1.931s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.931s] -- Detecting C compile features
+[1.931s] -- Detecting C compile features - done
+[1.950s] -- Detecting CXX compiler ABI info
+[2.318s] -- Detecting CXX compiler ABI info - done
+[2.342s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.344s] -- Detecting CXX compile features
+[2.344s] -- Detecting CXX compile features - done
+[2.361s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.914s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[3.620s] -- Configuring done (3.4s)
+[3.627s] -- Generating done (0.0s)
+[3.633s] -- Build files have been written to: /home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation
+[3.648s] Invoked command in '/home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mbot/mbot_ws/install/mbot_vision:/home/mbot/mbot_ws/install/mbot_bringup:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/mbot/Desktop/botlab/mbot_ws/src/mbot_navigation -DCMAKE_INSTALL_PREFIX=/home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation
+[3.651s] Invoking command in '/home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mbot/mbot_ws/install/mbot_vision:/home/mbot/mbot_ws/install/mbot_bringup:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation -- -j4 -l4
+[3.754s] Invoked command in '/home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mbot/mbot_ws/install/mbot_vision:/home/mbot/mbot_ws/install/mbot_bringup:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation -- -j4 -l4
+[3.791s] Invoking command in '/home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mbot/mbot_ws/install/mbot_vision:/home/mbot/mbot_ws/install/mbot_bringup:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation
+[3.824s] -- Install configuration: ""
+[3.825s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/config
+[3.825s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/config/nav2_params.yaml
+[3.829s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/config/slam_toolbox_hallway_mapping.yaml
+[3.832s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/config/slam_toolbox_online_async.yaml
+[3.832s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/launch
+[3.832s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/launch/navigation_launch.py
+[3.833s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/launch/localization_launch.py
+[3.834s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/launch/slam_toolbox_online_async_launch.py
+[3.835s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/launch/view_map.launch.py
+[3.836s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/launch/slam_exploration_launch.py
+[3.837s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/maps
+[3.837s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/maps/.placeholder
+[3.838s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/rviz
+[3.839s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/rviz/localization.rviz
+[3.839s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/rviz/mapping.rviz
+[3.840s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/rviz/navigation.rviz
+[3.841s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/rviz/view_map.rviz
+[3.842s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/lib/mbot_navigation/bruteforce_frontier_explorer.py
+[3.843s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/lib/mbot_navigation/wavefront_frontier_explorer.py
+[3.845s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/ament_index/resource_index/package_run_dependencies/mbot_navigation
+[3.847s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/ament_index/resource_index/parent_prefix_path/mbot_navigation
+[3.848s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/environment/ament_prefix_path.sh
+[3.849s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/environment/ament_prefix_path.dsv
+[3.849s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/environment/path.sh
+[3.850s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/environment/path.dsv
+[3.850s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/local_setup.bash
+[3.855s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/local_setup.sh
+[3.856s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/local_setup.zsh
+[3.857s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/local_setup.dsv
+[3.857s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/package.dsv
+[3.857s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/ament_index/resource_index/packages/mbot_navigation
+[3.857s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/cmake/mbot_navigationConfig.cmake
+[3.857s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/cmake/mbot_navigationConfig-version.cmake
+[3.858s] -- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/package.xml
+[3.863s] Invoked command in '/home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mbot/mbot_ws/install/mbot_vision:/home/mbot/mbot_ws/install/mbot_bringup:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation

@@ -1,0 +1,52 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Configuring done (3.4s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/mbot/Desktop/botlab/mbot_ws/build/mbot_navigation
+-- Install configuration: ""
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/config
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/config/nav2_params.yaml
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/config/slam_toolbox_hallway_mapping.yaml
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/config/slam_toolbox_online_async.yaml
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/launch
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/launch/navigation_launch.py
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/launch/localization_launch.py
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/launch/slam_toolbox_online_async_launch.py
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/launch/view_map.launch.py
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/launch/slam_exploration_launch.py
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/maps
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/maps/.placeholder
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/rviz
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/rviz/localization.rviz
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/rviz/mapping.rviz
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/rviz/navigation.rviz
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/rviz/view_map.rviz
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/lib/mbot_navigation/bruteforce_frontier_explorer.py
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/lib/mbot_navigation/wavefront_frontier_explorer.py
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/ament_index/resource_index/package_run_dependencies/mbot_navigation
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/ament_index/resource_index/parent_prefix_path/mbot_navigation
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/environment/ament_prefix_path.sh
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/environment/ament_prefix_path.dsv
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/environment/path.sh
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/environment/path.dsv
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/local_setup.bash
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/local_setup.sh
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/local_setup.zsh
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/local_setup.dsv
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/package.dsv
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/ament_index/resource_index/packages/mbot_navigation
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/cmake/mbot_navigationConfig.cmake
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/cmake/mbot_navigationConfig-version.cmake
+-- Installing: /home/mbot/Desktop/botlab/mbot_ws/install/mbot_navigation/share/mbot_navigation/package.xml
